@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+flask_bcrypt
+flask_login
+itsdangerous==2.0.1
+Pillow
